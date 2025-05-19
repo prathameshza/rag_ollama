@@ -22,7 +22,8 @@ This project implements an AI assistant that uses **OpenAI-compatible models via
    ollama run mistral:instruct
    uvicorn main:app --reload
    ```
-
+## Demo
+Click to view [video demonstration](https://drive.google.com/file/d/1Z1AQEfK1RHjF2-Sj8EoNTooK8kl5SisA/view?usp=sharing).
    
 
    
